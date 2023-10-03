@@ -2,7 +2,7 @@
 
 This project was the 4th and final project for the LMU CMSI2022: Mobile App Development Class in Spring 2023.
 
-This group project was completed with users ntran18, Nicholaslee0101, and JulianLeonhardt.
+This group project was completed with users **ntran18**, **Nicholaslee0101**, and **JulianLeonhardt**.
 
 The following is from our original project description:
 
